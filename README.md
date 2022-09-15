@@ -1,7 +1,9 @@
 # Introduction
 
-a brand new change to my Readme file
+This is a repository created by *Pierce*
 
-## A second heading
+## Running the project
 
-Some description for that second heading.
+To run the project, execute this command 
+ `python filename.py`
+ 
